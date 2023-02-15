@@ -1,2 +1,2 @@
 # emily-wang-slp
-Emily Wang - Speech Therapy
+Emily Wang - Speech Therapist
